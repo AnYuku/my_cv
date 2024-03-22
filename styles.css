@@ -200,24 +200,24 @@ black: #222222
 
 .title_view .shape_around{
   position: relative;
-  width: auto; /* Adjust width of the ellipse */
-  height: 75px; /* Adjust height of the ellipse */
+  width: auto;
+  height: 75px;
   padding: 0 30px;
-  background-color: #6FBFE4; /* Adjust background color of the ellipse */
-  border-radius: 50%; /* Make the ellipse round */
+  background-color: #6FBFE4;
+  border-radius: 50%;
   display: flex;
-  align-items: center; /* Center content horizontally */
+  align-items: center;
   justify-content: center; 
 }
 
 .title_view .shape_around h1{
-  color: white; /* Adjust text color */
+  color: white;
   margin: 0;
 }
 
 .title_view .line{
-  flex: 1; /* Grow to fill remaining space */
-  border-top: 2px solid #6FBFE4; /* Adjust color and thickness of the line */
+  flex: 1;
+  border-top: 2px solid #6FBFE4;
 }
 
 .work_experience ul li h3{
